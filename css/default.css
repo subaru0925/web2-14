@@ -72,21 +72,21 @@ clear:both;
 /*640px以下*/
 @media screen and (max-width:640px){
     body{
-        bockground-color; red;
+        bockground-color; #55acee;
      }
  }
  
 /*640px以上　980px以下*/
 @media screen and (min-width:641px) and (max-width:980px){
     body{
-        background-color: green;
+        background-color: #1dcd00;
     }
  }
  
  /*981px以上*/
  @media screen and (min-width:981px){
     body{
-        background-color: blue;
+        background-color: #3B5998;
      }
 }
 
