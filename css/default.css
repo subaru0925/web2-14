@@ -89,4 +89,10 @@ clear:both;
         background-color: #3B5998;
      }
 }
+ <style type="text/css">
+body {
+  zoom: 3.0;
+  -moz-transform: scale(3.0);
+}
+</style>
 }
