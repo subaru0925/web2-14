@@ -74,21 +74,21 @@ clear:both;
     body{
         bockground-color; rad;
      }
- }//blue
+ }
  
 /*640px以上　980px以下*/
 @media screen and (min-width:641px) and (max-width:980px){
     body{
         background-color:blue;
     }
- } //#1dcd00
+ } /*#1dcd00*/
  
  /*981px以上*/
  @media screen and (min-width:981px){
     body{
         background-color: Green;
      }
-}//#3B5998
+}/*#3B5998*/
 
 @media screen and (orientation:portrait){
     body:after {
