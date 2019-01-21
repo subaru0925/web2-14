@@ -72,7 +72,7 @@ clear:both;
 /*640px以下*/
 @media screen and (max-width:640px){
     body{
-        bockground-color; rad;
+        bockground-color; red;
      }
  }
  
