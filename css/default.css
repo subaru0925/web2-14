@@ -92,6 +92,6 @@ clear:both;
 
 @media screen and (orientation:portrait){
     body:after {
-        content:"縦長";
+        /*content:"縦長";*/
     }
 }
