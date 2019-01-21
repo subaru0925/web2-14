@@ -89,9 +89,4 @@ clear:both;
         background-color: #3B5998;
      }
 }
-
-/*@media screen and (orientation:portrait){
-    body:after {
-        content:"縦長";
-    }*/
 }
